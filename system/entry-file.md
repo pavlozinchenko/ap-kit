@@ -81,5 +81,5 @@ add to it.
 
 The AI reads this file first. For a Project, the file names related
 Activities and asks the AI to read their entry files before anything else.
-Claude Code reads `CLAUDE.md`, not `AGENTS.md`: add a one-line import or a
-symlink, see [kit/claude/global-snippet.md](../kit/claude/global-snippet.md).
+Claude Code reads `CLAUDE.md`, not `AGENTS.md`: add a `CLAUDE.md` with the
+single line `@AGENTS.md`, see [kit/claude/README.md](../kit/claude/README.md).

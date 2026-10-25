@@ -52,7 +52,7 @@ from inside a linked repository: the tool would resolve the real path under
 `~/Git` and the entry file would not exist for it.
 
 This is enforced by one rule in the global AI instructions, see
-[kit/claude/global-snippet.md](../kit/claude/global-snippet.md). Not by
+[kit/claude/README.md](../kit/claude/README.md). Not by
 memory, which is per-directory and would not fire where it is needed.
 
 ## Three layers of instructions
